@@ -1,79 +1,44 @@
-# Kateb Artiste - Un jeu éducatif par Studio KATEB & Papa
+# Kateb Artiste – Testez vos connaissances en art !
 
-## À propos du Studio
+**Kateb Artiste** est un jeu éducatif conçu pour tester et enrichir vos connaissances en peinture et en histoire de l’art. À travers une interface simple et intuitive, découvrez les œuvres des plus grands peintres et apprenez tout en vous amusant !
 
-Kateb Artiste est développé par **Studio KATEB & Papa**, un studio spécialisé dans les jeux éducatifs. Vous pouvez en savoir plus sur notre travail sur notre site officiel : [Studio KATEB & Papa](https://studiokatebetpapa.rf.gd).
+## 🎨 Présentation du jeu
 
-## Description
+Plongez dans l’univers fascinant de l’art avec **Kateb Artiste** ! Le concept est simple : une œuvre vous est présentée, et vous devez deviner quel artiste l’a réalisée parmi plusieurs propositions. Parfait pour les amateurs d’art, les étudiants ou simplement les curieux qui souhaitent en apprendre plus sur les grands maîtres de la peinture.
 
-Kateb Artiste est une application de quiz développée en Python avec BeeWare dont le but est d'aider les joueurs à reconnaître les œuvres d'art, leurs artistes et leurs styles à travers un quiz interactif.
+## 📸 Captures d’écran
 
-## Installation et Build Android
+![Capture d’écran 1](https://studiokatebetpapa.rf.gd/wp-content/uploads/2025/02/1000009118-1-461x1024.jpg)
+![Capture d’écran 2](https://studiokatebetpapa.rf.gd/wp-content/uploads/2025/02/1000009117-2-461x1024.jpg)
 
-1. Assurez-vous d'avoir Python installé sur votre machine.
-2. Clonez ce dépôt GitHub :
-   ```
-   git clone <URL_DU_DEPOT>
-   ```
-3. Accédez au dossier du projet :
-   ```
-   cd <NOM_DU_DOSSIER>
-   ```
-4. Installez les dépendances nécessaires :
-   ```
-   pip install briefcase toga
-   ```
+## ✨ Fonctionnalités principales
 
-## Build pour Android
+- 🖼️ **Quiz interactif** : Découvrez des tableaux célèbres et testez vos connaissances.
+- 🎨 **Artistes variés** : Des peintres classiques aux impressionnistes, en passant par les grands maîtres de la Renaissance.
+- 🏆 **Apprentissage progressif** : Chaque réponse vous permet d’en apprendre plus sur l’artiste et son œuvre.
+- 📱 **Interface fluide et intuitive** : Une navigation simplifiée pour une expérience agréable.
+- 🔄 **Mises à jour régulières** : De nouvelles œuvres et fonctionnalités seront ajoutées.
 
-1. Assurez-vous d'avoir installé les outils nécessaires pour Briefcase :
-   ```
-   briefcase install
-   ```
-2. Construisez l'application pour Android avec :
-   ```
-   briefcase build android
-   ```
-3. Si besoin, vous pouvez aussi empaqueter l'application avec :
-   ```
-   briefcase package android
-   ```
+## 📥 Téléchargement
 
-## Installation de l'APK sur Android
+Le jeu est disponible gratuitement en format APK. Téléchargez-le dès maintenant et testez vos connaissances en art !
 
-1. Après avoir construit l'application, vous obtiendrez un fichier APK.
-2. Transférez l'APK sur votre appareil Android.
-3. Installez l'APK en l'ouvrant depuis un gestionnaire de fichiers ou en exécutant :
-   ```
-   adb install <chemin_vers_l_apk>
-   ```
-4. Ouvrez l'application depuis le menu de votre appareil.
+➡️ **[Télécharger l’APK](https://mega.nz/file/ce91nJ6a#9EOXYGVThr5WQ-pBJ2dugeA-3Txm9-X2oBFoyPKY-w4)**
 
-## Utilisation
+## 🔗 Code source
 
-1. Lancez l'application en ouvrant l'APK installé depuis le menu de votre appareil Android.
-2. Répondez aux questions en choisissant parmi les options proposées.
-3. Le score final est affiché après 10 questions.
+Le projet est open source ! Si vous souhaitez explorer le code, contribuer ou proposer des améliorations, retrouvez **Kateb Artiste** sur GitHub :
 
-## Structure du projet
+➡️ **[Voir le projet sur GitHub](https://github.com/kattouba/KatebArtiste)**
 
-```
-/src
-  /ressources
-    - paintings.csv  # Données des tableaux
-    /images  # Images des peintures
-      - 1.jpg
-      - 2.jpg
-    - correct.mp3  # Son pour bonne réponse
-    - wrong.mp3  # Son pour mauvaise réponse
-  app.py  # Code principal de l'application
-```
+## 🤝 Contribuer
 
-## Contributions
+Si vous aimez ce projet et souhaitez y contribuer, n’hésitez pas à :
+- ⭐ **Liker le projet** sur GitHub
+- 📧 **Proposer des idées et améliorations** via les issues
+- 👨‍💻 **Forker et soumettre des pull requests**
 
-Les contributions sont les bienvenues ! N'hésitez pas à soumettre une pull request.
+## 📝 Remerciements
 
-## Licence
-
-Ce projet est sous licence GNU GPL v2.
+Merci à tous ceux qui soutiennent le projet ! Votre retour est essentiel pour améliorer l’application et enrichir son contenu. N’hésitez pas à laisser un commentaire ou à partager Kateb Artiste avec vos amis passionnés d’art. 🎭
 
