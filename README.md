@@ -11,8 +11,8 @@ Plongez dans l’univers fascinant de l’art avec **Kateb Artiste** ! Le concep
 
 ## 📸 Captures d’écran
 
-![Capture d’écran 1](https://studiokatebetpapa.rf.gd/wp-content/uploads/2025/02/1000009118-1-461x1024.jpg)
-![Capture d’écran 2](https://studiokatebetpapa.rf.gd/wp-content/uploads/2025/02/1000009117-2-461x1024.jpg)
+![Capture d’écran 1](https://studiokatebetpapa.rf.gd/wp-content/uploads/2025/02/1000009117-2.jpg)
+![Capture d’écran 2](https://studiokatebetpapa.rf.gd/wp-content/uploads/2025/02/1000009118-1.jpg)
 
 ## ✨ Fonctionnalités principales
 
