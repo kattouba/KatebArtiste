@@ -6,6 +6,9 @@
 
 Plongez dans l’univers fascinant de l’art avec **Kateb Artiste** ! Le concept est simple : une œuvre vous est présentée, et vous devez deviner quel artiste l’a réalisée parmi plusieurs propositions. Parfait pour les amateurs d’art, les étudiants ou simplement les curieux qui souhaitent en apprendre plus sur les grands maîtres de la peinture.
 
+**[Site Web du Jeu ](https://studiokatebetpapa.rf.gd/nos-jeux/katebartiste)**
+
+
 ## 📸 Captures d’écran
 
 ![Capture d’écran 1](https://studiokatebetpapa.rf.gd/wp-content/uploads/2025/02/1000009118-1-461x1024.jpg)
